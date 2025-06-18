@@ -84,4 +84,5 @@ This is a simple command-line Python script designed to test your SMTP (Simple M
   - **原因**: 可能存在其他网络问题或服务商的临时限制。
   - **解决方法**: 仔细阅读错误信息，或在网上搜索该错误代码。
 
-  > Forged in human-AI light.
+
+> Forged in human-AI light.
